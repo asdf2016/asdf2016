@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>asd</title>
+	<title></title>
 </head>
 <body>
+	<?php echo 4;?>
 </body>
 </html>
